@@ -1,1 +1,14 @@
-
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [],
+    "images": [
+    ],
+    "mcu": "stm32wb",
+    "product": "WeAct WB55CG",
+    "thumbnail": "",
+    "url": "",
+    "vendor": "WeAct Studio"
+}
